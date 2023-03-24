@@ -7,8 +7,6 @@ Languages that I used here are :
 3) Javascript
 4) NodeJs
 5) PUG
-6) Mongodb
-
 And that's all...
 
 Thanks 
